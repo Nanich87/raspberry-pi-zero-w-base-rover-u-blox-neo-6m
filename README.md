@@ -4,7 +4,7 @@
 
 1. Raspberry Pi Zero W https://www.raspberrypi.org/products/raspberry-pi-zero-w/
 
-2. Ublox Neo-6m https://www.u-blox.com/en/product/neo-6-series
+2. u-blox NEO-6M https://www.u-blox.com/en/product/neo-6-series
 
 3. SparkFun 9DoF Sensor Stick https://www.sparkfun.com/products/13944
 
