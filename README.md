@@ -8,6 +8,10 @@
 
 3. SparkFun 9DoF Sensor Stick https://www.sparkfun.com/products/13944
 
+**Software**
+
+1. Raspberry Zero GNSS Logger https://github.com/Nanich87/raspberry-zero-gnss-logger
+
 **RTKLIB Startup Commands**
 
 !HEX b5 62 09 01 10 00 c8 16 00 00 00 00 00 00 97 69 21 00 00 00 02 10 2b 22
