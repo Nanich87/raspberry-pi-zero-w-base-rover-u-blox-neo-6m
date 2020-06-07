@@ -1,4 +1,4 @@
-# Raspberry Pi Zero W GNSS RTK with u-blox NEO-6m
+# Raspberry Zero GPS Logger / RTK with u-blox NEO-6M
 
 **Hardware**
 
