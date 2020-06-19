@@ -5,6 +5,11 @@
 ![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v2.png)
 ![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v2.png)
 
+**Version 1**
+
+![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v1.png)
+![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v1.png)
+
 **Hardware**
 
 1. Raspberry Pi Zero W https://www.raspberrypi.org/products/raspberry-pi-zero-w/
