@@ -1,4 +1,4 @@
-# Raspberry Pi Zero based u-blox NEO-6M GPS Raw Data Logger with RTKLIB
+# Raspberry Pi Zero based u-blox NEO-6M GPS raw data logger with RTKLIB
 
 **Version 2**
 
