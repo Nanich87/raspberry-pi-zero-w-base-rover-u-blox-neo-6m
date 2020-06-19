@@ -1,5 +1,10 @@
 # Raspberry Pi Zero based u-blox NEO-6M GPS Raw Data Logger with RTKLIB
 
+**Version 2**
+
+![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v2.png)
+![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v2.png)
+
 **Hardware**
 
 1. Raspberry Pi Zero W https://www.raspberrypi.org/products/raspberry-pi-zero-w/
