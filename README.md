@@ -2,15 +2,15 @@
 
 ## Hardware Requirements
 
-### Raspberry Pi Zero / Zero W
+### Raspberry Pi
+
+#### Raspberry Pi Zero W
 
 ![Raspberry Pi Zero W](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/raspberry-pi-zero-w.jpg "Raspberry Pi Zero W")
 
-![Raspberry Pi Zero](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/raspberry-pi-zero.jpg "Raspberry Pi Zero")
-
 ### u-blox NEO-6M / 7M / M8N / M8T
 
-![u-blox NEO-6M](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/u-blox.jpg "u-blox NEO-6M")
+![u-blox NEO-M8T](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/u-blox.jpg "u-blox NEO-M8T")
 
 ### SparkFun 9DoF Sensor Stick (Optional)
 
@@ -37,12 +37,12 @@
 
 ## STL
 
-### Version 2
-
-![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v2.png)
-![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v2.png)
-
 ### Version 1
 
 ![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v1.png)
 ![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v1.png)
+
+### Version 2
+
+![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v2.png)
+![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v2.png)
