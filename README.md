@@ -46,15 +46,3 @@
 
 ![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v1.png)
 ![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v1.png)
-
-## RTKLIB Startup Commands
-
-https://wiki.openstreetmap.org/wiki/UbloxRAW#U-BLOX6
-
-!HEX b5 62 09 01 10 00 c8 16 00 00 00 00 00 00 97 69 21 00 00 00 02 10 2b 22
-
-!HEX b5 62 09 01 10 00 0c 19 00 00 00 00 00 00 83 69 21 00 00 00 02 11 5f f0
-
-!HEX b5 62 06 01 08 00 02 10 00 01 00 00 00 00 22 28
-
-!HEX b5 62 06 01 08 00 02 11 00 01 00 00 00 00 23 2f
