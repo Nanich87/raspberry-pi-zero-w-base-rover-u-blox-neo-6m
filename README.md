@@ -2,13 +2,25 @@
 
 ## Hardware Requirements
 
-### Raspberry Pi Zero
+### Raspberry Pi Zero / Zero W
+
+![Raspberry Pi Zero W](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/raspberry-pi-zero-w.jpg "Raspberry Pi Zero W")
+
+![Raspberry Pi Zero](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/raspberry-pi-zero.jpg "Raspberry Pi Zero")
+
+### u-blox NEO-6M
+
+![u-blox NEO-6M](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/u-blox.jpg "u-blox NEO-6M")
+
+### SparkFun 9DoF Sensor Stick
+
+![SparkFun 9DoF Sensor Stick](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/sparkfun-9dof-sensor-stick.jpg "SparkFun 9DoF Sensor Stick")
 
 1. Raspberry Pi Zero W https://www.raspberrypi.org/products/raspberry-pi-zero-w/
 
 2. u-blox NEO-6M https://www.u-blox.com/en/product/neo-6-series
 
-3. SparkFun 9DoF Sensor Stick https://www.sparkfun.com/products/13944
+3. SparkFun 9DoF Sensor Stick https://www.sparkfun.com/products/13944 (Optional)
 
 ## Wiring
 
