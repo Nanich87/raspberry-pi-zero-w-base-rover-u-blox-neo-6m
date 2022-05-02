@@ -1,16 +1,16 @@
-# Raspberry Pi Zero based u-blox NEO-6M GPS raw data logger with RTKLIB
+# u-blox NEO-6M GPS Raw Data Logger based on Raspberry Pi Zero W / RTKLIB
 
-**Version 2**
+## Version 2
 
 ![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v2.png)
 ![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v2.png)
 
-**Version 1**
+## Version 1
 
 ![Part 1 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_1_v1.png)
 ![Part 2 V2](https://raw.githubusercontent.com/Nanich87/raspberry-gnss-rtk-ublox-neo-6m/master/images/3d/part_2_v1.png)
 
-**Hardware**
+## Hardware
 
 1. Raspberry Pi Zero W https://www.raspberrypi.org/products/raspberry-pi-zero-w/
 
@@ -18,11 +18,11 @@
 
 3. SparkFun 9DoF Sensor Stick https://www.sparkfun.com/products/13944
 
-**Software**
+## Software
 
 1. Raspberry Zero GNSS Logger https://github.com/Nanich87/raspberry-zero-gnss-logger
 
-**RTKLIB Startup Commands**
+## RTKLIB Startup Commands
 
 https://wiki.openstreetmap.org/wiki/UbloxRAW#U-BLOX6
 
