@@ -8,13 +8,15 @@
 
 ![Raspberry Pi Zero](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/raspberry-pi-zero.jpg "Raspberry Pi Zero")
 
-### u-blox NEO-6M
+### u-blox NEO-6M / 7M / M8N / M8T
 
 ![u-blox NEO-6M](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/u-blox.jpg "u-blox NEO-6M")
 
-### SparkFun 9DoF Sensor Stick
+### SparkFun 9DoF Sensor Stick (Optional)
 
 ![SparkFun 9DoF Sensor Stick](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/images/sparkfun-9dof-sensor-stick.jpg "SparkFun 9DoF Sensor Stick")
+
+### Product Description
 
 1. Raspberry Pi Zero W https://www.raspberrypi.org/products/raspberry-pi-zero-w/
 
