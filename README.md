@@ -26,6 +26,8 @@
 
 ## Wiring
 
+![Raspberry Pi Zero W Pinout](https://github.com/Nanich87/raspberry-pi-zero-w-base-rover-u-blox-neo-6m/blob/master/docs/rpi-gpio.png "Raspberry Pi Zero WPinout")
+
 - Raspberry Pi GPIO14 (Pin #08) -> u-blox NEO-6M RX
 - Raspberry Pi GPIO15 (Pin #10) -> u-blox NEO-6M TX
 - Raspberry Pi DC Power 5v (Pin #04) -> u-blox NEO-6M +5v
